@@ -1,3 +1,6 @@
+G:_WM_MENU
+*:_WM_NO_MENU
+
 *:WM01
 B:                           Lesson 1: Introducing 'tn'
 
@@ -11,6 +14,8 @@ D:t t t t t t t t tt t tt t tt t tt t tt ttt tt t tt ttt t tt ttt tt t t t t tt 
  :n n n n n n n nn n nn n nn n nn n nn nnn nn n nn nnn n nn nnn nn n n n n nn tt
  :nn t n t n ttnn ttnn tn tn tn tn t n t n tt nn tt nn ttnn ttnn t n t n tn tt nn
  :tn tn tt nn tt nn t t n n t t n n tt nn tt nn ttnn tt nn t t n n t n n
+
+G:_WM_J_WM01
 
 *:WM02
 B:                           Lesson 2: Introducing 'he'
@@ -27,6 +32,8 @@ D:h h h h h h h h hh h hh h hh h hh h hh hhh hh h hh hhh h hh hhh hh h h h h hh 
  :he he hh ee hh ee h h e e h h e e hh ee hh ee hhee hh ee h h e e h e h e t n t n
  :h e h e tt nn hh ee tn tn he he t h t h th n e n e ne th ne th ne tnhetnhe
 
+G:_WM_J_WM02
+
 *:WM03
 B:                           Lesson 3: Introducing 'so'
 
@@ -40,6 +47,8 @@ D:s s s s s s s s ss s ss s ss s ss s ss sss ss s ss sss s ss sss ss s s s s ss 
  :so so ss oo ss oo s s o o s s o o ss oo ss oo ssoo ss oo s s o o s o s o t tt n
  :nn h hh e ee s ss o oo tn tn he he so so t h s t h s ths ths n e o n e o neo neo
  :ths ths neo neo t h s n e o t h s n e o ths neo ths neo
+
+G:_WM_J_WM03
 
 *:WM04
 B:                           Lesson 4: Introducing 'ai'
@@ -55,6 +64,8 @@ D:a a a a a a a a aa a aa a aa a aa a aa aaa aa a aa aaa a aa aaa aa a a a a aa 
  :t h s a t h s a thsa thsa n e o i n e o i neoi neoi t n h e s o a i t n h e s o
  :a i thsa thsa thsa neoi neoi neoi
 
+G:_WM_J_WM04
+
 *:WM05
 B:                           Lesson 5: All Home Keys
 
@@ -68,6 +79,8 @@ D:t tt t tt n nn n nn t tt n nn tn tn tn tt nn tn tn t tt n nn t tt n nn tn tnt 
  :a aa i i i ii a aa ii ii ai ai ai aa ii ai ai a aa i ii a aa ii ii ai aia th ths
  :thsa ne neo neoi th ths thsa ne neo neoi tn he so ai tn he so ai th ne as ase
  :ase ah oah oah aoo taoo aoo taoo ase a oahi aoo ase oah taoo ashtneoi
+
+G:_WM_J_WM05
 
 *:WM06
 B:                           Lesson 6: Home Keys Conditioning
@@ -86,6 +99,8 @@ D:tt nn tn tn hh ee he he ss oo so so aa ii ai ai tt nn tn tn hh ee he he ss oo 
  :oah sah iah as ase as aoo aoo taoo atin oahi tah saoi taoo oah hah asth esa osin
  :entes eat ot asea sath noihe
 
+G:_WM_J_WM06
+
 *:WM07
 B:                           Lesson 7: Home Keys Continued
 
@@ -102,6 +117,8 @@ D:Ate nos tone snot tn se so ai tssa neoi ate in essos en in it ase ao si ntt se
  :aa ii ss ee ss oo neas seas seat neat one noise nine soas see sat sinh ate ant
  :it To tea ten satin Sat hast hat not I in
 
+G:_WM_J_WM07
+
 *:WM08
 B:                           Lesson 8: Introducing 'lr'
 
@@ -115,6 +132,8 @@ D:ll ln ln rr nln ln rr nln ln lar las ln lar lar lar ll ln ln ll ln ln lar las 
  :lare least la lore leans less lens Iota rant rhino la leah Oast Star not torso
  :ll ln ln ll rr rs rs rr la First trone let reet lear rl Rl rr ll ls rs ln ln rl
  :rine learns East rast
+
+G:_WM_J_WM08
 
 *:WM09
 B:                           Lesson 9: Conditioning 'lr'
@@ -131,6 +150,8 @@ D:ln ll ln la lat lith lith lah lart ln la lat lair lahl lere ler ll ln lih lah 
  :nine thra neio lhlh lnln ll rll rll lh ln ll rll stair llih llah iael leas error
  :near neat lira tlen lear lith loner solan ore seat orients
 
+G:_WM_J_WM09
+
 *:WM10
 B:                           Lesson 10: Introducing 'cudp'
 
@@ -146,6 +167,8 @@ D:cu dp cd uc cud pud cc uup dau ucdp direct outreach dirt patchers detour spaci
  :could Opercula latish posher pulsant redcaps outplans elutions antic stoup
  :Urchin suiter Chlorites aphides Dose thrice sulphated Policer launcher Preadult
  :natures Unpoetic aeroliths haunt
+
+G:_WM_J_WM10
 
 *:WM11
 B:                           Lesson 11: Conditioning 'cudp'
@@ -166,6 +189,8 @@ D:planet and hope house act cold soil list sleep steel chart start port teeth
  :section parent train spend success run tire children rest happen condition
  :particular
 
+G:_WM_J_WM11
+
 *:WM12
 B:                           Lesson 12: Introducing 'gy'
 
@@ -177,6 +202,8 @@ D:gg yy gy gy gg yy g y y y g g y gyg ygy ggg YYY tg ny ty ng tn gy yg GyG ny tg
  :stop up I process nation area eight hear thin enter student light good hold
  :class road path chair order clothe current spot long short any season corn us
  :create that art push steel open nine hurry tone continue grass there produce
+
+G:_WM_J_WM12
 
 *:WM13
 B:                           Lesson 13: Conditioning 'gy'
@@ -197,6 +224,8 @@ D:gy gg yy gyn tgy tgyn htgyne yg YY GG ygy gog hGt iron choose sun edge decide
  :top so say it sheet lay girl lead discuss suggest does air rich anger post
  :opposite heard salt lady help cent story use soon has such laugh ground shine
 
+G:_WM_J_WM13
+
 *:WM14
 B:                           Lesson 14: Introducing 'mfw'
 
@@ -211,6 +240,8 @@ D:mwf f w m m w w f f ff wf wmf ww mm ff nf tf tw ttm mmf wmt fnl nff common smi
  :half Whose ten name Measure minute these hundred radio total real help train
  :friend who element ready corn earth shine post which fight true together plane
  :lead roll match change wait ago ran was feel
+
+G:_WM_J_WM14
 
 *:WM15
 B:                           Lesson 15: Conditioning 'mfw'
@@ -228,6 +259,8 @@ D:mm ff ww mfw fwm mm ww w f m mt tf nf nf nw tw mmffww shlep fuels latch meat
  :guess original turn thousand sugar century more large thus run wife especially
  :sure lost cat sing field path
 
+G:_WM_J_WM15
+
 *:WM16
 B:                           Lesson 16: Introducing 'kb.'
 
@@ -241,6 +274,8 @@ D:k k k b b b kk bb bbk bK kBkbb knk kn Bw wb bt ttb bk kkbb bthw bwht klne ekln
  :neighbor. chief Bed money thing. choose famous. represent shout. hurry Thousand
  :particular million earth science. thought wing party world stand finger from
  :always lake wish list deal
+
+G:_WM_J_WM16
 
 *:WM17
 B:                           Lesson 17: Conditioning 'kb.'
@@ -259,6 +294,8 @@ D:kb b bk kn kt hk k k b b BB kk kbk nk kln tbw wbtc has hot bank soldier head
  :figure cow blue. told steam cotton music went use board look sign only climb
  :whole turn rather down
 
+G:_WM_J_WM17
+
 *:WM18
 B:                           Lesson 18: Reinforcement Drill
 
@@ -271,6 +308,8 @@ D:He attended DrupalCamp Charlotte last weekend and got great information. Class
  :budget is essential to getting and staying out of debt. Find yourself generating
  :it as RSA. Rows get truncated. Practitioners have proposed Digital Immigrants do
  :not prefer images. Participants were asked to answer the DPI questionnaire.
+
+G:_WM_J_WM18
 
 *:WM19
 B:                           Lesson 19: Introducing 'qzx'
@@ -286,6 +325,8 @@ D:q q q qq qqq z z z zzz x x xx xxx xz xzq xs xza za az aq qqqa qz zxx xxs xxl z
  :near.  soil surface stead.  plane zip quarry rain yard caught neck solution zhar
  :fair heard home mean true .  sheet difficult or find ring body egg school tail
  :ready
+
+G:_WM_J_WM19
 
 *:WM20
 B:                           Lesson 20: Conditioning 'qzx'
@@ -303,6 +344,8 @@ D:q q qq qqq z z zz zzz ZxZ zQz x XS xsL zap Zip zop ZOOM exact quit quotient
  :total found lost such twenty hand hear show time always fire point sand look age
  :first material clock flow check shoulder chair high about old round do star
  :block molecule separate up help and king great segment
+
+G:_WM_J_WM20
 
 *:WM21
 B:                           Lesson 21: Introducing 'vj,'
@@ -323,6 +366,8 @@ D:vv jj vv jj vjv jvj jar very just jumped variable times vroom. Vavq Aqua quake
  :metamorphism, while using their axe. A quiver of arrows next to the quilt.  The
  :marines meant to make excellent meals.
 
+G:_WM_J_WM21
+
 *:WM22
 B:                           Lesson 22: Introducing punctuation
 
@@ -340,6 +385,8 @@ D:nj njn jj njn jn jj njn jn jet jn Jim jay jail jar jell Jack jelly jam j jn bt
  :bt ?; mn xr yn ,/; tf ?  x-ray ; cs o; nj ?/?  rw nm Quiet on the set.  When did
  :the baby go home?  Them/It, Make Trixie a present, maybe a blue quilt?  job/bill
 
+G:_WM_J_WM22
+
 *:WM23
 B:                           Lesson 23: Reinforcement Drill
 
@@ -354,6 +401,8 @@ D:thsa neoi thsa neoi tp nl sf i. Now for a real test of your skill.  a b c d e 
  :about.  I came upon it yesterday and all I had written was the name of the list.
  :thsa neoi tg nl td nh nk tv e, scrx azaq o;o/ pfwq luy; bk e, sc i. ? rx o/ az
  :tnhesoai
+
+G:_WM_J_WM23
 
 *:WM24
 B:                           Lesson 24: Final Letters Drill
@@ -372,6 +421,8 @@ D:When we get really rocking on typing words, it really seems to make a lot of
  :pretty competent in your spelling as well?  If not, try out Master Spell.  It is
  :a blast. Making typing software and spelling software, we never have an excuse
  :for a typo nor a spelling error.  But it can still happen.
+
+G:_WM_J_WM24
 
 *:WM25
 B:                           Lesson 25: Introducing '47 et al'
@@ -393,6 +444,8 @@ D:t 4 t 4 4 tTt 4$4 4t 4t$T $t t44 4t 4t$4 4t4 4t4 T4T t44 44t $t4 tt 44 TT $$ n
  :grapes at $.74 a pound & Mack bought them at $.77 a pound, how could you have
  :bought them at $.44?
 
+G:_WM_J_WM25
+
 *:WM26
 B:                           Lesson 26: Conditioning '47 et al'
 
@@ -407,6 +460,8 @@ D:4t4 4 4 444 4 4$ 4$ 4$t4 4t4 T4 $ T $$ 44 $t4 4$t 4t $ $$ 4T4 t4t 4$t 4t $t4 7
  :it is important to learn where they are on the keyboard. Learning your symbols
  :and numbers well allows you to type with more freedom and less hesitation.
  :Don't forget about an increase in speed, too. & 7 $ 4 N T t n
+
+G:_WM_J_WM26
 
 *:WM27
 B:                           Lesson 27: Introducing '38 et al'
@@ -425,6 +480,8 @@ D:s 3 s 3 3 sSs 3#3 3s 3s#S #s s33 3s 3s#3 3s3 3s3 S3S s33 33s #s3 ss 33 SS ## e
  :menu's prices and discovers that everything costs $.77.  *78 *43 & #34 #83 are
  :not the same, are they?
 
+G:_WM_J_WM27
+
 *:WM28
 B:                           Lesson 28: Conditioning '38 et al'
 
@@ -439,6 +496,8 @@ D:3s3 3 3 3333 3 3# 3# 3#s3 3s3 S3 # S ## 33 #s3 3#s 3s # ## 3S3 S3S 3#s 3s #s3
  :mean pound or indicate a number.  Can you spell the symbol '&'?  7 and 8 and 4
  :and 3.  & $ # * Do you ever get the feeling that the numbers don't always add
  :up?
+
+G:_WM_J_WM28
 
 *:WM29
 B:                           Lesson 29: Introducing '156 et al'
@@ -457,6 +516,8 @@ D:a 1 a 1 1 aAa 1!1 1a 1a!A !a a11 1a 1a!1 1a1 1a1 A1A a11 11a !a1 aa 11 AA !! n
  :Again!  Nobody likes #13 as much as #65, do they? For every tick of the clock,
  :there are at least 147 tocks somewhere else.
 
+G:_WM_J_WM29
+
 *:WM30
 B:                           Lesson 30: Conditioning '156 et al'
 
@@ -474,6 +535,8 @@ D:1a1 1 1 111 1 1!  1!  1!a1 1a1 A1 !  A !! 11 !a1 1!a 1a !  !!  1A1 a1a 1!a 1a
  :license # could be #7X8-44-55;11 or even #134-56-7M86-17P18.  NO! Please do not
  :use ^'s in this sentence.
 
+G:_WM_J_WM30
+
 *:WM31
 B:                           Lesson 31: Introducing '2@ 9( 0)'
 
@@ -489,6 +552,8 @@ D:r 2 r 2 2 rRr 2@2 2r 2r@R @r r22 2r 2r@2 2r2 2r2 R2R r22 22r @r2 rr 22 RR @@ i
  :at after calculating the votes.  Tina is #1!  (but not Timmy.) I bought carrots
  :@ .19 per #, and broccoli @ .32 per #. Like & ^ & * % ^ $ # @ !  18273 465 98
  :00334 Practice practice practice!
+
+G:_WM_J_WM31
 
 *:WM32
 B:                           Lesson 32: Conditioning '2@ 9( 0)'
@@ -506,3 +571,171 @@ D:2r2 2 2 222 2 2@ 2@ 2@r2 2r2 R2 @ R @@ 22 @r2 2@r 2r @ @@ 2R2 r2r 2@r 2r @r2 9
  :there were 0.  None!  Millie & Trixie are best friends.  8^5 but 7#1.
  :90-456-321145-98 Is there such a thing as 0%? Call me!  2-314-555-9017 Wednesday
  :at 6:30.  Cougars are #1!  LarryBoy@BigIdeas.com is a cutie.
+
+G:_WM_MENU
+
+*:_WM_J_WM01
+Q: Do you want to continue to lesson 2? [Y/N]
+N:_WM_MENU
+G:WM01
+*:_WM_J_WM02
+Q: Do you want to continue to lesson 3? [Y/N]
+N:_WM_MENU
+G:WM02
+*:_WM_J_WM03
+Q: Do you want to continue to lesson 4? [Y/N]
+N:_WM_MENU
+G:WM03
+*:_WM_J_WM04
+Q: Do you want to continue to lesson 5? [Y/N]
+N:_WM_MENU
+G:WM04
+*:_WM_J_WM05
+Q: Do you want to continue to lesson 6? [Y/N]
+N:_WM_MENU
+G:WM05
+*:_WM_J_WM06
+Q: Do you want to continue to lesson 7? [Y/N]
+N:_WM_MENU
+G:WM06
+*:_WM_J_WM07
+Q: Do you want to continue to lesson 8? [Y/N]
+N:_WM_MENU
+G:WM07
+*:_WM_J_WM08
+Q: Do you want to continue to lesson 9? [Y/N]
+N:_WM_MENU
+G:WM08
+*:_WM_J_WM09
+Q: Do you want to continue to lesson 10? [Y/N]
+N:_WM_MENU
+G:WM09
+*:_WM_J_WM10
+Q: Do you want to continue to lesson 11? [Y/N]
+N:_WM_MENU
+G:WM10
+*:_WM_J_WM11
+Q: Do you want to continue to lesson 12? [Y/N]
+N:_WM_MENU
+G:WM11
+*:_WM_J_WM12
+Q: Do you want to continue to lesson 13? [Y/N]
+N:_WM_MENU
+G:WM12
+*:_WM_J_WM13
+Q: Do you want to continue to lesson 14? [Y/N]
+N:_WM_MENU
+G:WM13
+*:_WM_J_WM14
+Q: Do you want to continue to lesson 15? [Y/N]
+N:_WM_MENU
+G:WM14
+*:_WM_J_WM15
+Q: Do you want to continue to lesson 16? [Y/N]
+N:_WM_MENU
+G:WM15
+*:_WM_J_WM16
+Q: Do you want to continue to lesson 17? [Y/N]
+N:_WM_MENU
+G:WM16
+*:_WM_J_WM17
+Q: Do you want to continue to lesson 18? [Y/N]
+N:_WM_MENU
+G:WM17
+*:_WM_J_WM18
+Q: Do you want to continue to lesson 19? [Y/N]
+N:_WM_MENU
+G:WM18
+*:_WM_J_WM19
+Q: Do you want to continue to lesson 20? [Y/N]
+N:_WM_MENU
+G:WM19
+*:_WM_J_WM20
+Q: Do you want to continue to lesson 21? [Y/N]
+N:_WM_MENU
+G:WM20
+*:_WM_J_WM21
+Q: Do you want to continue to lesson 22? [Y/N]
+N:_WM_MENU
+G:WM21
+*:_WM_J_WM22
+Q: Do you want to continue to lesson 23? [Y/N]
+N:_WM_MENU
+G:WM22
+*:_WM_J_WM23
+Q: Do you want to continue to lesson 24? [Y/N]
+N:_WM_MENU
+G:WM23
+*:_WM_J_WM24
+Q: Do you want to continue to lesson 25? [Y/N]
+N:_WM_MENU
+G:WM24
+*:_WM_J_WM25
+Q: Do you want to continue to lesson 26? [Y/N]
+N:_WM_MENU
+G:WM25
+*:_WM_J_WM26
+Q: Do you want to continue to lesson 27? [Y/N]
+N:_WM_MENU
+G:WM26
+*:_WM_J_WM27
+Q: Do you want to continue to lesson 28? [Y/N]
+N:_WM_MENU
+G:WM27
+*:_WM_J_WM28
+Q: Do you want to continue to lesson 29? [Y/N]
+N:_WM_MENU
+G:WM28
+*:_WM_J_WM29
+Q: Do you want to continue to lesson 30? [Y/N]
+N:_WM_MENU
+G:WM29
+*:_WM_J_WM30
+Q: Do you want to continue to lesson 31? [Y/N]
+N:_WM_MENU
+G:WM30
+*:_WM_J_WM31
+Q: Do you want to continue to lesson 32? [Y/N]
+N:_WM_MENU
+G:WM31
+*:_WM_J_WM32
+Q: Do you want to continue to lesson 33? [Y/N]
+N:_WM_MENU
+G:WM32
+
+*:_WM_MENU
+B:                          Workman Lessons
+M: UP=_EXIT "These are lessons for learning the workman keyboard layout."
+ :WM01  "Lesson 1: Introducing 'tn'"
+ :WM02  "Lesson 2: Introducing 'he'"
+ :WM03  "Lesson 3: Introducing 'so'"
+ :WM04  "Lesson 4: Introducing 'ai'"
+ :WM05  "Lesson 5: All Home Keys"
+ :WM06  "Lesson 6: Home Keys Conditioning"
+ :WM07  "Lesson 7: Home Keys Continued"
+ :WM08  "Lesson 8: Introducing 'lr'"
+ :WM09  "Lesson 9: Conditioning 'lr'"
+ :WM10  "Lesson 10: Introducing 'cudp'"
+ :WM11  "Lesson 11: Conditioning 'cudp'"
+ :WM12  "Lesson 12: Introducing 'gy'"
+ :WM13  "Lesson 13: Conditioning 'gy'"
+ :WM14  "Lesson 14: Introducing 'mfw'"
+ :WM15  "Lesson 15: Conditioning 'mfw'"
+ :WM16  "Lesson 16: Introducing 'kb.'"
+ :WM17  "Lesson 17: Conditioning 'kb.'"
+ :WM18  "Lesson 18: Reinforcement Drill"
+ :WM19  "Lesson 19: Introducing 'qzx'"
+ :WM20  "Lesson 20: Conditioning 'qzx'"
+ :WM21  "Lesson 21: Introducing 'vj,'"
+ :WM22  "Lesson 22: Introducing punctuation"
+ :WM23  "Lesson 23: Reinforcement Drill"
+ :WM24  "Lesson 24: Final Letters Drill"
+ :WM25  "Lesson 25: Introducing '47 et al'"
+ :WM26  "Lesson 26: Conditioning '47 et al'"
+ :WM27  "Lesson 27: Introducing '38 et al'"
+ :WM28  "Lesson 28: Conditioning '38 et al'"
+ :WM29  "Lesson 29: Introducing '156 et al'"
+ :WM30  "Lesson 30: Conditioning '156 et al'"
+ :WM31  "Lesson 31: Introducing '2@ 9( 0)'"
+ :WM32  "Lesson 32: Conditioning '2@ 9( 0)'"
+*:_WM_EXIT
