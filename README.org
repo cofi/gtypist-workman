@@ -1,0 +1,10 @@
+* What's Workman?
+  Workman is a keyboard layout, see http://www.workmanlayout.com/blog/
+
+  You can find David Norman's implementations for various systems at [[https://github.com/deekayen/workman][deekayen/workman]]
+
+* Usage
+  You can start the workman lessons via =gtypist workman.typ=, where =workman.typ= is either the complete path to the file or it is in =GTYPIST_PATH=.
+
+* Credits
+  These lessons are completely based on [[https://github.com/deekayen/master-key-workman][David Norman's lessons for Master Key]].
